@@ -11,8 +11,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'dbempleado',
-        'USER': 'neunapp',
-        'PASSWORD': 'neunappcursopro',
+        'USER': 'posgres',
+        'PASSWORD': '123456',
         'HOST': 'localhost',
         'PORT': '5432',
     }
